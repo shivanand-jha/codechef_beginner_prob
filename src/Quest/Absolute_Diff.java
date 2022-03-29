@@ -24,5 +24,6 @@ public class Absolute_Diff {
 
         }
         return count >= 0 ? count : -1;
+
     }
 }
